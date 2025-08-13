@@ -1,2 +1,2 @@
 # MyLisp
-A lisp version following https://www.buildyourownlisp.com
+A Lisp version following the tutorial at https://www.buildyourownlisp.com.
